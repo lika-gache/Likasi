@@ -50,5 +50,5 @@ animation: heartBeat 1.2s ease-in-out infinite;
   @media (max-width: 393px) {
 h1 {
 font-size: 2.5rem;
-
+white-space: nowrap;
 }
