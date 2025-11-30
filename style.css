@@ -17,6 +17,7 @@ h1 {
   color: black;
   margin: 0;
   align-items: center;
+  white-space: nowrap;
   animation: lika 6s linear;
 }
 
