@@ -23,6 +23,7 @@ h1 {
 .heart {
 display: inline-block;
 margin: 0 10px;
+vertical-align: middle;
 animation: heartBeat 1.2s ease-in-out infinite;
 }
 @keyframes heartBeat {
